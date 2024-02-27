@@ -1,0 +1,9 @@
+.container{
+
+    width: auto;
+    margin: auto;
+    padding: 20px;
+    border: 5px;
+    background-color: aliceblue;
+    text-align:center;
+}
